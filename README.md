@@ -2,9 +2,13 @@ Google Billboard
 ==================
 In July of 2004 a mysterious billboard appeared in Silicon Valley. All it said was  
 
-     {first ten digit prime found in consecutive digits of e}.com  (this website is no longer available :( )
+![gb1](gb1.png)
 
-At the same time, an identical banner appeared in the Harvard Square subway station in Boston. No indication was given about the significance of the signs, but people who correctly discovered the ten digit prime and visited the website were given a subsequent second puzzle. If they completed the second puzzle correctly they received a congratulatory message encouraging them to apply for a job at Google Labs!  This promotion is no longer active, but we will replicate the experience here as a means to learn usage of Java Boolean & String objects. This is an important and frequently needed construct.  It also appears often in the APCSA exam!
+At the same time, an identical banner appeared in the Harvard Square subway station in Boston. 
+
+![gb2](gb2.png)
+
+No indication was given about the significance of the signs, but people who correctly discovered the ten digit prime and visited the website were given a subsequent second puzzle. If they completed the second puzzle correctly they received a congratulatory message encouraging them to apply for a job at Google Labs!  This promotion is no longer active, but we will replicate the experience here as a means to learn usage of Java Boolean & String objects. This is an important and frequently needed construct.  It also appears often in the APCSA exam!
 
 Suggested steps to complete the puzzle of the Goolge Billboard
 --------------------------------------------------------------
